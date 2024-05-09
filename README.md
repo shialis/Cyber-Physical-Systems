@@ -14,3 +14,10 @@
 1. Each code segment represents a different machine learning method.
 2. Run each code segment to generate results file.
 3. The results will be saved in the output directory with appropriate file names.
+
+**Note** For both Part A and Part B, the best solution was found to be the Random Forest Classifier. Thus, the best results will be achieved when running that code snippet.
+
+
+
+
+
